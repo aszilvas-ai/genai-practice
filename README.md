@@ -24,7 +24,7 @@
 
 - Known limitations:
 
-1. The AI behavior is still simulated. The prototype uses preset follow-up questions and rule-based recommendations instead of a live AI model that can understand a user’s written description.
+1. The AI behavior is still simulated. The prototype uses preset follow-up questions and rule-based recommendations instead of a live AI model that can understand a user’s written description. Eventually, I'd like to be rid of the simulated AI and actually utilize it.
 
 2. The error handling needs improvement. During testing, entering “unknown” for every question still produced a recommendation to contact a wildlife rehabilitator instead of asking the user for more information. The next version should block unsupported recommendations and highlight missing answers.
 
