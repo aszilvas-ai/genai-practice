@@ -1,4 +1,4 @@
-# genai-practice
+# genai-practice Wildlife Next Step
 
 - Product name and a one-sentence description: Wildlife Next Step is a prototype that helps someone who finds a wild animal understand the safest next step, including what to do when it is after normal rehabilitator hours.
 
