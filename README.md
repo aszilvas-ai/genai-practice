@@ -15,6 +15,7 @@
 - What is simulated: The AI behavior is simulated with preset follow-up questions and rule-based recommendations. The app does not currently use a live AI model to understand the user’s own written description.
 
 - Test results:
+  
 | Test | Input or Action | What Happened | Pass, Partial, or Fail |
 | --- | --- | --- | --- |
 | Typical Case | Entered a healthy-looking juvenile squirrel that was moving normally and showed no visible injury, unknown if the parent was nearby, and daytime. | The app asks any needed follow-up questions and gives the “Leave it alone and observe” path. It explains why and does not give animal-care instructions. | Pass because this is a situation that has not yet caused concern. |
